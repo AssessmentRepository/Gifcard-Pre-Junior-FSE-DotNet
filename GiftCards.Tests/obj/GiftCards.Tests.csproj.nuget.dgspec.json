@@ -1,0 +1,286 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\1-6-20\\Gifcard-Pre-Junior-FSE-DotNet-master\\GiftCards.Tests\\GiftCards.Tests.csproj": {}
+  },
+  "projects": {
+    "D:\\1-6-20\\Gifcard-Pre-Junior-FSE-DotNet-master\\GiftCards.BusinessLayer\\GiftCards.BusinessLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\1-6-20\\Gifcard-Pre-Junior-FSE-DotNet-master\\GiftCards.BusinessLayer\\GiftCards.BusinessLayer.csproj",
+        "projectName": "GiftCards.BusinessLayer",
+        "projectPath": "D:\\1-6-20\\Gifcard-Pre-Junior-FSE-DotNet-master\\GiftCards.BusinessLayer\\GiftCards.BusinessLayer.csproj",
+        "packagesPath": "C:\\Users\\Bhuvaneshwari N G\\.nuget\\packages\\",
+        "outputPath": "D:\\1-6-20\\Gifcard-Pre-Junior-FSE-DotNet-master\\GiftCards.BusinessLayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Bhuvaneshwari N G\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "D:\\1-6-20\\Gifcard-Pre-Junior-FSE-DotNet-master\\GiftCards.DataLayer\\GiftCards.DataLayer.csproj": {
+                "projectPath": "D:\\1-6-20\\Gifcard-Pre-Junior-FSE-DotNet-master\\GiftCards.DataLayer\\GiftCards.DataLayer.csproj"
+              },
+              "D:\\1-6-20\\Gifcard-Pre-Junior-FSE-DotNet-master\\GiftCards.Entities\\GiftCards.Entities.csproj": {
+                "projectPath": "D:\\1-6-20\\Gifcard-Pre-Junior-FSE-DotNet-master\\GiftCards.Entities\\GiftCards.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\1-6-20\\Gifcard-Pre-Junior-FSE-DotNet-master\\GiftCards.DataLayer\\GiftCards.DataLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\1-6-20\\Gifcard-Pre-Junior-FSE-DotNet-master\\GiftCards.DataLayer\\GiftCards.DataLayer.csproj",
+        "projectName": "GiftCards.DataLayer",
+        "projectPath": "D:\\1-6-20\\Gifcard-Pre-Junior-FSE-DotNet-master\\GiftCards.DataLayer\\GiftCards.DataLayer.csproj",
+        "packagesPath": "C:\\Users\\Bhuvaneshwari N G\\.nuget\\packages\\",
+        "outputPath": "D:\\1-6-20\\Gifcard-Pre-Junior-FSE-DotNet-master\\GiftCards.DataLayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Bhuvaneshwari N G\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.30, )"
+            },
+            "Microsoft.Data.Sqlite.Core": {
+              "target": "Package",
+              "version": "[3.1.3, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "SQLitePCLRaw.bundle_e_sqlite3": {
+              "target": "Package",
+              "version": "[2.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\1-6-20\\Gifcard-Pre-Junior-FSE-DotNet-master\\GiftCards.Entities\\GiftCards.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\1-6-20\\Gifcard-Pre-Junior-FSE-DotNet-master\\GiftCards.Entities\\GiftCards.Entities.csproj",
+        "projectName": "GiftCards.Entities",
+        "projectPath": "D:\\1-6-20\\Gifcard-Pre-Junior-FSE-DotNet-master\\GiftCards.Entities\\GiftCards.Entities.csproj",
+        "packagesPath": "C:\\Users\\Bhuvaneshwari N G\\.nuget\\packages\\",
+        "outputPath": "D:\\1-6-20\\Gifcard-Pre-Junior-FSE-DotNet-master\\GiftCards.Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Bhuvaneshwari N G\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\1-6-20\\Gifcard-Pre-Junior-FSE-DotNet-master\\GiftCards.Tests\\GiftCards.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\1-6-20\\Gifcard-Pre-Junior-FSE-DotNet-master\\GiftCards.Tests\\GiftCards.Tests.csproj",
+        "projectName": "GiftCards.Tests",
+        "projectPath": "D:\\1-6-20\\Gifcard-Pre-Junior-FSE-DotNet-master\\GiftCards.Tests\\GiftCards.Tests.csproj",
+        "packagesPath": "C:\\Users\\Bhuvaneshwari N G\\.nuget\\packages\\",
+        "outputPath": "D:\\1-6-20\\Gifcard-Pre-Junior-FSE-DotNet-master\\GiftCards.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Bhuvaneshwari N G\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "D:\\1-6-20\\Gifcard-Pre-Junior-FSE-DotNet-master\\GiftCards.BusinessLayer\\GiftCards.BusinessLayer.csproj": {
+                "projectPath": "D:\\1-6-20\\Gifcard-Pre-Junior-FSE-DotNet-master\\GiftCards.BusinessLayer\\GiftCards.BusinessLayer.csproj"
+              },
+              "D:\\1-6-20\\Gifcard-Pre-Junior-FSE-DotNet-master\\GiftCards.Entities\\GiftCards.Entities.csproj": {
+                "projectPath": "D:\\1-6-20\\Gifcard-Pre-Junior-FSE-DotNet-master\\GiftCards.Entities\\GiftCards.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[15.9.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.13.1, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

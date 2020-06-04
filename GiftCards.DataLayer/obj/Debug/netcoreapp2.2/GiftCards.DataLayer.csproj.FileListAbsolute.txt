@@ -1,0 +1,61 @@
+C:\Users\hp\source\repos\GiftCards\GiftCards.DataLayer\bin\Debug\netcoreapp2.2\GiftCards.DataLayer.deps.json
+C:\Users\hp\source\repos\GiftCards\GiftCards.DataLayer\bin\Debug\netcoreapp2.2\GiftCards.DataLayer.dll
+C:\Users\hp\source\repos\GiftCards\GiftCards.DataLayer\bin\Debug\netcoreapp2.2\GiftCards.DataLayer.pdb
+C:\Users\hp\source\repos\GiftCards\GiftCards.DataLayer\obj\Debug\netcoreapp2.2\GiftCards.DataLayer.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\GiftCards\GiftCards.DataLayer\obj\Debug\netcoreapp2.2\GiftCards.DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\GiftCards\GiftCards.DataLayer\obj\Debug\netcoreapp2.2\GiftCards.DataLayer.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\GiftCards\GiftCards.DataLayer\obj\Debug\netcoreapp2.2\GiftCards.DataLayer.AssemblyInfo.cs
+C:\Users\hp\source\repos\GiftCards\GiftCards.DataLayer\obj\Debug\netcoreapp2.2\GiftCards.DataLayer.dll
+C:\Users\hp\source\repos\GiftCards\GiftCards.DataLayer\obj\Debug\netcoreapp2.2\GiftCards.DataLayer.pdb
+C:\Users\hp\Desktop\WFH\27-GiftCard&Fitness\GIftcard and Fitnesstrainer-Submitted\DotNet-Jayanth\DotNet-Jayanth\GiftCards\GiftCards.DataLayer\bin\Debug\netcoreapp2.2\GiftCards.DataLayer.deps.json
+C:\Users\hp\Desktop\WFH\27-GiftCard&Fitness\GIftcard and Fitnesstrainer-Submitted\DotNet-Jayanth\DotNet-Jayanth\GiftCards\GiftCards.DataLayer\bin\Debug\netcoreapp2.2\GiftCards.DataLayer.dll
+C:\Users\hp\Desktop\WFH\27-GiftCard&Fitness\GIftcard and Fitnesstrainer-Submitted\DotNet-Jayanth\DotNet-Jayanth\GiftCards\GiftCards.DataLayer\bin\Debug\netcoreapp2.2\GiftCards.DataLayer.pdb
+C:\Users\hp\Desktop\WFH\27-GiftCard&Fitness\GIftcard and Fitnesstrainer-Submitted\DotNet-Jayanth\DotNet-Jayanth\GiftCards\GiftCards.DataLayer\obj\Debug\netcoreapp2.2\GiftCards.DataLayer.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\WFH\27-GiftCard&Fitness\GIftcard and Fitnesstrainer-Submitted\DotNet-Jayanth\DotNet-Jayanth\GiftCards\GiftCards.DataLayer\obj\Debug\netcoreapp2.2\GiftCards.DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\WFH\27-GiftCard&Fitness\GIftcard and Fitnesstrainer-Submitted\DotNet-Jayanth\DotNet-Jayanth\GiftCards\GiftCards.DataLayer\obj\Debug\netcoreapp2.2\GiftCards.DataLayer.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\WFH\27-GiftCard&Fitness\GIftcard and Fitnesstrainer-Submitted\DotNet-Jayanth\DotNet-Jayanth\GiftCards\GiftCards.DataLayer\obj\Debug\netcoreapp2.2\GiftCards.DataLayer.AssemblyInfo.cs
+C:\Users\hp\Desktop\WFH\27-GiftCard&Fitness\GIftcard and Fitnesstrainer-Submitted\DotNet-Jayanth\DotNet-Jayanth\GiftCards\GiftCards.DataLayer\obj\Debug\netcoreapp2.2\GiftCards.DataLayer.dll
+C:\Users\hp\Desktop\WFH\27-GiftCard&Fitness\GIftcard and Fitnesstrainer-Submitted\DotNet-Jayanth\DotNet-Jayanth\GiftCards\GiftCards.DataLayer\obj\Debug\netcoreapp2.2\GiftCards.DataLayer.pdb
+C:\Users\hp\Desktop\GiftCards\GiftCards.DataLayer\bin\Debug\netcoreapp2.2\GiftCards.DataLayer.deps.json
+C:\Users\hp\Desktop\GiftCards\GiftCards.DataLayer\bin\Debug\netcoreapp2.2\GiftCards.DataLayer.dll
+C:\Users\hp\Desktop\GiftCards\GiftCards.DataLayer\bin\Debug\netcoreapp2.2\GiftCards.DataLayer.pdb
+C:\Users\hp\Desktop\GiftCards\GiftCards.DataLayer\obj\Debug\netcoreapp2.2\GiftCards.DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\GiftCards\GiftCards.DataLayer\obj\Debug\netcoreapp2.2\GiftCards.DataLayer.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\GiftCards\GiftCards.DataLayer\obj\Debug\netcoreapp2.2\GiftCards.DataLayer.AssemblyInfo.cs
+C:\Users\hp\Desktop\GiftCards\GiftCards.DataLayer\obj\Debug\netcoreapp2.2\GiftCards.DataLayer.dll
+C:\Users\hp\Desktop\GiftCards\GiftCards.DataLayer\obj\Debug\netcoreapp2.2\GiftCards.DataLayer.pdb
+C:\Users\hp\Desktop\Final\GiftCards\GiftCards\GiftCards.DataLayer\bin\Debug\netcoreapp2.2\GiftCards.DataLayer.deps.json
+C:\Users\hp\Desktop\Final\GiftCards\GiftCards\GiftCards.DataLayer\bin\Debug\netcoreapp2.2\GiftCards.DataLayer.dll
+C:\Users\hp\Desktop\Final\GiftCards\GiftCards\GiftCards.DataLayer\bin\Debug\netcoreapp2.2\GiftCards.DataLayer.pdb
+C:\Users\hp\Desktop\Final\GiftCards\GiftCards\GiftCards.DataLayer\obj\Debug\netcoreapp2.2\GiftCards.DataLayer.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\Final\GiftCards\GiftCards\GiftCards.DataLayer\obj\Debug\netcoreapp2.2\GiftCards.DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Final\GiftCards\GiftCards\GiftCards.DataLayer\obj\Debug\netcoreapp2.2\GiftCards.DataLayer.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Final\GiftCards\GiftCards\GiftCards.DataLayer\obj\Debug\netcoreapp2.2\GiftCards.DataLayer.AssemblyInfo.cs
+C:\Users\hp\Desktop\Final\GiftCards\GiftCards\GiftCards.DataLayer\obj\Debug\netcoreapp2.2\GiftCards.DataLayer.dll
+C:\Users\hp\Desktop\Final\GiftCards\GiftCards\GiftCards.DataLayer\obj\Debug\netcoreapp2.2\GiftCards.DataLayer.pdb
+D:\1-6-20\Gifcard-Pre-Junior-FSE-DotNet-master\GiftCards.DataLayer\bin\Debug\netcoreapp2.2\GiftCards.DataLayer.deps.json
+D:\1-6-20\Gifcard-Pre-Junior-FSE-DotNet-master\GiftCards.DataLayer\bin\Debug\netcoreapp2.2\GiftCards.DataLayer.dll
+D:\1-6-20\Gifcard-Pre-Junior-FSE-DotNet-master\GiftCards.DataLayer\bin\Debug\netcoreapp2.2\GiftCards.DataLayer.pdb
+D:\1-6-20\Gifcard-Pre-Junior-FSE-DotNet-master\GiftCards.DataLayer\obj\Debug\netcoreapp2.2\GiftCards.DataLayer.AssemblyInfoInputs.cache
+D:\1-6-20\Gifcard-Pre-Junior-FSE-DotNet-master\GiftCards.DataLayer\obj\Debug\netcoreapp2.2\GiftCards.DataLayer.AssemblyInfo.cs
+D:\1-6-20\Gifcard-Pre-Junior-FSE-DotNet-master\GiftCards.DataLayer\obj\Debug\netcoreapp2.2\GiftCards.DataLayer.csproj.CoreCompileInputs.cache
+D:\1-6-20\Gifcard-Pre-Junior-FSE-DotNet-master\GiftCards.DataLayer\obj\Debug\netcoreapp2.2\GiftCards.DataLayer.dll
+D:\1-6-20\Gifcard-Pre-Junior-FSE-DotNet-master\GiftCards.DataLayer\obj\Debug\netcoreapp2.2\GiftCards.DataLayer.pdb
+D:\1-6-20\Gifcard-Pre-Junior-FSE-DotNet-master\GiftCards.DataLayer\obj\Debug\netcoreapp2.2\GiftCards.DataLayer.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\New folder (3)\TunedUpTestcases\Gifcard-Pre-Junior-FSE-DotNet-master\Gifcard-Pre-Junior-FSE-DotNet-master\GiftCards.DataLayer\bin\Debug\netcoreapp2.2\GiftCards.DataLayer.deps.json
+C:\Users\hp\Desktop\New folder (3)\TunedUpTestcases\Gifcard-Pre-Junior-FSE-DotNet-master\Gifcard-Pre-Junior-FSE-DotNet-master\GiftCards.DataLayer\bin\Debug\netcoreapp2.2\GiftCards.DataLayer.dll
+C:\Users\hp\Desktop\New folder (3)\TunedUpTestcases\Gifcard-Pre-Junior-FSE-DotNet-master\Gifcard-Pre-Junior-FSE-DotNet-master\GiftCards.DataLayer\bin\Debug\netcoreapp2.2\GiftCards.DataLayer.pdb
+C:\Users\hp\Desktop\New folder (3)\TunedUpTestcases\Gifcard-Pre-Junior-FSE-DotNet-master\Gifcard-Pre-Junior-FSE-DotNet-master\GiftCards.DataLayer\obj\Debug\netcoreapp2.2\GiftCards.DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\New folder (3)\TunedUpTestcases\Gifcard-Pre-Junior-FSE-DotNet-master\Gifcard-Pre-Junior-FSE-DotNet-master\GiftCards.DataLayer\obj\Debug\netcoreapp2.2\GiftCards.DataLayer.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\New folder (3)\TunedUpTestcases\Gifcard-Pre-Junior-FSE-DotNet-master\Gifcard-Pre-Junior-FSE-DotNet-master\GiftCards.DataLayer\obj\Debug\netcoreapp2.2\GiftCards.DataLayer.AssemblyInfo.cs
+C:\Users\hp\Desktop\New folder (3)\TunedUpTestcases\Gifcard-Pre-Junior-FSE-DotNet-master\Gifcard-Pre-Junior-FSE-DotNet-master\GiftCards.DataLayer\obj\Debug\netcoreapp2.2\GiftCards.DataLayer.dll
+C:\Users\hp\Desktop\New folder (3)\TunedUpTestcases\Gifcard-Pre-Junior-FSE-DotNet-master\Gifcard-Pre-Junior-FSE-DotNet-master\GiftCards.DataLayer\obj\Debug\netcoreapp2.2\GiftCards.DataLayer.pdb
+C:\Users\hp\Desktop\New folder (3)\TunedUpCodes\Gifcard-Pre-Junior-FSE-DotNet-master\Gifcard-Pre-Junior-FSE-DotNet-master\GiftCards.DataLayer\bin\Debug\netcoreapp2.2\GiftCards.DataLayer.deps.json
+C:\Users\hp\Desktop\New folder (3)\TunedUpCodes\Gifcard-Pre-Junior-FSE-DotNet-master\Gifcard-Pre-Junior-FSE-DotNet-master\GiftCards.DataLayer\bin\Debug\netcoreapp2.2\GiftCards.DataLayer.dll
+C:\Users\hp\Desktop\New folder (3)\TunedUpCodes\Gifcard-Pre-Junior-FSE-DotNet-master\Gifcard-Pre-Junior-FSE-DotNet-master\GiftCards.DataLayer\bin\Debug\netcoreapp2.2\GiftCards.DataLayer.pdb
+C:\Users\hp\Desktop\New folder (3)\TunedUpCodes\Gifcard-Pre-Junior-FSE-DotNet-master\Gifcard-Pre-Junior-FSE-DotNet-master\GiftCards.DataLayer\obj\Debug\netcoreapp2.2\GiftCards.DataLayer.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\New folder (3)\TunedUpCodes\Gifcard-Pre-Junior-FSE-DotNet-master\Gifcard-Pre-Junior-FSE-DotNet-master\GiftCards.DataLayer\obj\Debug\netcoreapp2.2\GiftCards.DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\New folder (3)\TunedUpCodes\Gifcard-Pre-Junior-FSE-DotNet-master\Gifcard-Pre-Junior-FSE-DotNet-master\GiftCards.DataLayer\obj\Debug\netcoreapp2.2\GiftCards.DataLayer.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\New folder (3)\TunedUpCodes\Gifcard-Pre-Junior-FSE-DotNet-master\Gifcard-Pre-Junior-FSE-DotNet-master\GiftCards.DataLayer\obj\Debug\netcoreapp2.2\GiftCards.DataLayer.AssemblyInfo.cs
+C:\Users\hp\Desktop\New folder (3)\TunedUpCodes\Gifcard-Pre-Junior-FSE-DotNet-master\Gifcard-Pre-Junior-FSE-DotNet-master\GiftCards.DataLayer\obj\Debug\netcoreapp2.2\GiftCards.DataLayer.dll
+C:\Users\hp\Desktop\New folder (3)\TunedUpCodes\Gifcard-Pre-Junior-FSE-DotNet-master\Gifcard-Pre-Junior-FSE-DotNet-master\GiftCards.DataLayer\obj\Debug\netcoreapp2.2\GiftCards.DataLayer.pdb

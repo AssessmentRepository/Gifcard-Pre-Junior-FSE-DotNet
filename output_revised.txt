@@ -1,0 +1,10 @@
+TestFor_AddContactUsDetails= False
+TestFor_UpdateContactUsDetails= False
+TestFor_DeleteContactUsDetails= False
+TestFor_BuyerRegistration= False
+TestFor_BuyerLogOut= False
+TestFor_ViewAllGiftCards= False
+TestFor_GetAllBuyers=True
+TestFor_GetBuyerById= False
+TestFor_PlaceGiftCardOrder= False
+TestFor_BuyerLogin= False
